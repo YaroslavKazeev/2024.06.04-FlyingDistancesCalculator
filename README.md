@@ -26,3 +26,13 @@ Where:
 - φ₁, φ₂ are the latitudes of the two points
 - λ₁, λ₂ are the longitudes of the two points
 - R is Earth's radius (approximately 6,371 km)
+
+## Tech Stack
+
+This application is built using the following technologies:
+
+- **Python**: Core programming language
+- **Tkinter**: GUI framework for creating the user interface
+- **math**: Standard library for mathematical operations (Haversine formula calculations)
+- **re**: Regular expressions library for parsing city data
+- **os**: Operating system interface for file operations
